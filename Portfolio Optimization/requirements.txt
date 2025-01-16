@@ -1,0 +1,11 @@
+pandas
+gurobipy
+google-cloud-bigquery
+python-dateutil
+python-dotenv
+fastapi
+granian
+pydantic
+db-dtypes
+yfinance
+firebase-admin
